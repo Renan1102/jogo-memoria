@@ -1,4 +1,4 @@
-# [Jogo da Memória]() <-
+# [Jogo da Memória](https://renan1102.github.io/jogo-memoria/) <-
 
 Neste projeto foi desenvolvido um jogo da memória que visa não apenas entreter, mas também exercitar várias técnicas avançadas de desenvolvimento de jogos em JavaScript, HTML e CSS. Nesse sentido, utilizando CSS,
 foram implementadas animações suaves e agradáveis ao virar as cartas, proporcionando uma experiência visualmente agradável e fluida. A lógica do jogo foi desenvolvida em JavaScript, incluindo o embaralhamento
